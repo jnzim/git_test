@@ -8,16 +8,18 @@ namespace test_git1
     class Program
     {
 
-        testClass t1 = new testClass();
+        
 
         static void Main(string[] args)
         {
-  
+            testClass t1 = new testClass();
+            Console.WriteLine(t1.SomeNewMethod());
+            Console.ReadLine();
         }
 
-        public void DoSome()
+        private void PrintSomeThing()
         {
-             Console.WriteLine(t1.SomeMethodMod_1());
+          
         }
     }
 
@@ -27,6 +29,7 @@ namespace test_git1
 
 
         int _myVar;
+       
 
         public testClass()
         {
