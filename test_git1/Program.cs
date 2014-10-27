@@ -44,6 +44,11 @@ namespace test_git1
         {
             return "You called SomeMethod";
         }
+
+        public string SomeNewMethod()
+        {
+            return "You called SomeMethod";
+        }
     }
 
 
