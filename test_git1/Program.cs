@@ -17,7 +17,7 @@ namespace test_git1
 
         public void DoSome()
         {
-             Console.WriteLine(t1.SomeMethod());
+             Console.WriteLine(t1.SomeMethod_1());
         }
     }
 
@@ -39,7 +39,7 @@ namespace test_git1
             set { _myVar = value; }
         }
 
-        public string SomeMethod()
+        public string SomeMethodMod_1()
         {
             return "You called SomeMethod";
         }
