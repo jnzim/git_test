@@ -13,7 +13,7 @@ namespace test_git1
         static void Main(string[] args)
         {
             testClass t1 = new testClass();
-            Console.WriteLine(t1.SomeNewMethod());
+            Console.WriteLine(t1.SomeMethodMod_1());
             Console.ReadLine();
         }
 
@@ -45,7 +45,7 @@ namespace test_git1
 
         public string SomeMethodMod_1()
         {
-            return "You called SomeMethod";
+            return "You called SomeMethodMod_1";
         }
 
         public string SomeNewMethod()
