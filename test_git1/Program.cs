@@ -12,8 +12,9 @@ namespace test_git1
 
         static void Main(string[] args)
         {
-            testClass t1 = new testClass();
-            Console.WriteLine(t1.SomeMethodMod_1());
+            testClass1 t1 = new testClass1();
+
+            Console.WriteLine(t1.BeterMethodImplemenation());
             Console.ReadLine();
         }
 
@@ -63,5 +64,15 @@ namespace test_git1
             //empt class
 
         }
+
+        public string BeterMethodImplemenation()
+        {
+            string headerString = "This is much better";
+            int val = 1;
+            string ret = String.Format("{0} : {1}", headerString, val);
+            return ret;
+        }
+
+
     }
 }

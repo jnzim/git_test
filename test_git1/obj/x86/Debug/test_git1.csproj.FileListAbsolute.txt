@@ -2,3 +2,4 @@ C:\Users\Justin\documents\visual studio 2010\Projects\test_git1\test_git1\bin\De
 C:\Users\Justin\documents\visual studio 2010\Projects\test_git1\test_git1\bin\Debug\test_git1.pdb
 C:\Users\Justin\documents\visual studio 2010\Projects\test_git1\test_git1\obj\x86\Debug\test_git1.exe
 C:\Users\Justin\documents\visual studio 2010\Projects\test_git1\test_git1\obj\x86\Debug\test_git1.pdb
+C:\Users\Justin\documents\visual studio 2010\Projects\test_git1\test_git1\obj\x86\Debug\test_git1.csprojResolveAssemblyReference.cache
