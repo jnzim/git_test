@@ -17,13 +17,14 @@ namespace test_git1
 
         public void DoSome()
         {
-             Console.WriteLine(t1.SomeMethod_1());
+             Console.WriteLine(t1.SomeMethodMod_1());
         }
     }
 
 
     class testClass
     {
+
 
         int _myVar;
 
