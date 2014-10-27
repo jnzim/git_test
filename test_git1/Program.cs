@@ -45,4 +45,15 @@ namespace test_git1
             return "You called SomeMethod";
         }
     }
+
+
+    class testClass1
+    {
+
+        public testClass1()
+        {
+            //empt class
+
+        }
+    }
 }
